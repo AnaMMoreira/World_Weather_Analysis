@@ -1,4 +1,2 @@
 # World_Weather_Analysis
 Module6_API
-key
-a2753cf9c2a9ab67267109d3cf77d6d4
